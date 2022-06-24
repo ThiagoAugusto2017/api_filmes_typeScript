@@ -1,0 +1,21 @@
+2022-06-21 20:38:58:3858 - [31merror[39m: [31merro na conexão com MongoDB[39m
+2022-06-22 19:25:45:2545 - [31merror[39m: [31mErro no cadastro - Rota - movieCapt:Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-06-22 19:26:12:2612 - [31merror[39m: [31mErro no cadastro - Rota - movieCapt:Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-06-22 19:26:25:2625 - [31merror[39m: [31merro na conexão com MongoDB[39m
+2022-06-23 18:54:11:5411 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "movie"[39m
+2022-06-23 18:57:09:579 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type string) at path "_id" for model "movie"[39m
+2022-06-23 18:58:41:5841 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type string) at path "_id" for model "movie"[39m
+2022-06-23 18:59:35:5935 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type string) at path "_id" for model "movie"[39m
+2022-06-23 19:07:04:74 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type string) at path "_id" for model "movie"[39m
+2022-06-23 19:08:40:840 - [31merror[39m: [31merro na conexão com MongoDB[39m
+2022-06-23 19:09:35:935 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "movie"[39m
+2022-06-23 19:11:31:1131 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type string) at path "_id" for model "movie"[39m
+2022-06-23 19:14:51:1451 - [31merror[39m: [31mErro no GET - Rota - Movie:Cast to ObjectId failed for value "1" (type string) at path "_id" for model "movie"[39m
+2022-06-23 19:30:01:301 - [31merror[39m: [31mErro no GET - Rota - Movie:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function find[39m
+2022-06-23 19:30:41:3041 - [31merror[39m: [31mErro no GET - Rota - Movie:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function find[39m
+2022-06-23 19:31:03:313 - [31merror[39m: [31mErro no GET - Rota - Movie:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function find[39m
+2022-06-23 19:31:36:3136 - [31merror[39m: [31mErro no GET - Rota - movieAll:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function find[39m
+2022-06-23 20:05:28:528 - [31merror[39m: [31merro na conexão com MongoDB[39m
+2022-06-23 20:10:54:1054 - [31merror[39m: [31mErro no Delet - Rota - Movie:Operation `movies.findOneAndDelete()` buffering timed out after 10000ms[39m
+2022-06-23 20:11:12:1112 - [31merror[39m: [31merro na conexão com MongoDB[39m
+2022-06-23 20:19:33:1933 - [31merror[39m: [31merro na conexão com MongoDB[39m
